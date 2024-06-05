@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>f2837xd_driverlib</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.cdt.managedbuilder.core.genmakebuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.cdt.managedbuilder.core.ScannerConfigBuilder</name>
+			<triggers>full,incremental,</triggers>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.ti.ccstudio.core.ccsNature</nature>
+		<nature>org.eclipse.cdt.core.cnature</nature>
+		<nature>org.eclipse.cdt.managedbuilder.core.managedBuildNature</nature>
+		<nature>org.eclipse.cdt.core.ccnature</nature>
+		<nature>org.eclipse.cdt.managedbuilder.core.ScannerConfigNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>adc.c</name>
+			<type>1</type>
+			<location>C:/Users/Noah/sciebo - Dünninghaus, Noah Bennet (0T92MR@rwth-aachen.de)@rwth-aachen.sciebo.de2/01_RWTH-Aachen_Privat/01_Bachelorarbeit_Noah_Duenninghaus/08_Mikrocontroller_Steuerungseinheit/workspace/Controller_SiC_Aging_Testbench/device/driverlib/adc.c</location>
+		</link>
+		<link>
+			<name>asysctl.c</name>
+			<type>1</type>
+			<location>C:/Users/Noah/sciebo - Dünninghaus, Noah Bennet (0T92MR@rwth-aachen.de)@rwth-aachen.sciebo.de2/01_RWTH-Aachen_Privat/01_Bachelorarbeit_Noah_Duenninghaus/08_Mikrocontroller_Steuerungseinheit/workspace/Controller_SiC_Aging_Testbench/device/driverlib/asysctl.c</location>
+		</link>
+		<link>
+			<name>can.c</name>
+			<type>1</type>
+			<location>C:/Users/Noah/sciebo - Dünninghaus, Noah Bennet (0T92MR@rwth-aachen.de)@rwth-aachen.sciebo.de2/01_RWTH-Aachen_Privat/01_Bachelorarbeit_Noah_Duenninghaus/08_Mikrocontroller_Steuerungseinheit/workspace/Controller_SiC_Aging_Testbench/device/driverlib/can.c</location>
+		</link>
+		<link>
+			<name>cla.c</name>
+			<type>1</type>
+			<location>C:/Users/Noah/sciebo - Dünninghaus, Noah Bennet (0T92MR@rwth-aachen.de)@rwth-aachen.sciebo.de2/01_RWTH-Aachen_Privat/01_Bachelorarbeit_Noah_Duenninghaus/08_Mikrocontroller_Steuerungseinheit/workspace/Controller_SiC_Aging_Testbench/device/driverlib/cla.c</location>
+		</link>
+		<link>
+			<name>clb.c</name>
+			<type>1</type>
+			<location>C:/Users/Noah/sciebo - Dünninghaus, Noah Bennet (0T92MR@rwth-aachen.de)@rwth-aachen.sciebo.de2/01_RWTH-Aachen_Privat/01_Bachelorarbeit_Noah_Duenninghaus/08_Mikrocontroller_Steuerungseinheit/workspace/Controller_SiC_Aging_Testbench/device/driverlib/clb.c</location>
+		</link>
+		<link>
+			<name>cmpss.c</name>
+			<type>1</type>
+			<location>C:/Users/Noah/sciebo - Dünninghaus, Noah Bennet (0T92MR@rwth-aachen.de)@rwth-aachen.sciebo.de2/01_RWTH-Aachen_Privat/01_Bachelorarbeit_Noah_Duenninghaus/08_Mikrocontroller_Steuerungseinheit/workspace/Controller_SiC_Aging_Testbench/device/driverlib/cmpss.c</location>
+		</link>
+		<link>
+			<name>cputimer.c</name>
+			<type>1</type>
+			<location>C:/Users/Noah/sciebo - Dünninghaus, Noah Bennet (0T92MR@rwth-aachen.de)@rwth-aachen.sciebo.de2/01_RWTH-Aachen_Privat/01_Bachelorarbeit_Noah_Duenninghaus/08_Mikrocontroller_Steuerungseinheit/workspace/Controller_SiC_Aging_Testbench/device/driverlib/cputimer.c</location>
+		</link>
+		<link>
+			<name>dac.c</name>
+			<type>1</type>
+			<location>C:/Users/Noah/sciebo - Dünninghaus, Noah Bennet (0T92MR@rwth-aachen.de)@rwth-aachen.sciebo.de2/01_RWTH-Aachen_Privat/01_Bachelorarbeit_Noah_Duenninghaus/08_Mikrocontroller_Steuerungseinheit/workspace/Controller_SiC_Aging_Testbench/device/driverlib/dac.c</location>
+		</link>
+		<link>
+			<name>dcsm.c</name>
+			<type>1</type>
+			<location>C:/Users/Noah/sciebo - Dünninghaus, Noah Bennet (0T92MR@rwth-aachen.de)@rwth-aachen.sciebo.de2/01_RWTH-Aachen_Privat/01_Bachelorarbeit_Noah_Duenninghaus/08_Mikrocontroller_Steuerungseinheit/workspace/Controller_SiC_Aging_Testbench/device/driverlib/dcsm.c</location>
+		</link>
+		<link>
+			<name>dma.c</name>
+			<type>1</type>
+			<location>C:/Users/Noah/sciebo - Dünninghaus, Noah Bennet (0T92MR@rwth-aachen.de)@rwth-aachen.sciebo.de2/01_RWTH-Aachen_Privat/01_Bachelorarbeit_Noah_Duenninghaus/08_Mikrocontroller_Steuerungseinheit/workspace/Controller_SiC_Aging_Testbench/device/driverlib/dma.c</location>
+		</link>
+		<link>
+			<name>ecap.c</name>
+			<type>1</type>
+			<location>C:/Users/Noah/sciebo - Dünninghaus, Noah Bennet (0T92MR@rwth-aachen.de)@rwth-aachen.sciebo.de2/01_RWTH-Aachen_Privat/01_Bachelorarbeit_Noah_Duenninghaus/08_Mikrocontroller_Steuerungseinheit/workspace/Controller_SiC_Aging_Testbench/device/driverlib/ecap.c</location>
+		</link>
+		<link>
+			<name>emif.c</name>
+			<type>1</type>
+			<location>C:/Users/Noah/sciebo - Dünninghaus, Noah Bennet (0T92MR@rwth-aachen.de)@rwth-aachen.sciebo.de2/01_RWTH-Aachen_Privat/01_Bachelorarbeit_Noah_Duenninghaus/08_Mikrocontroller_Steuerungseinheit/workspace/Controller_SiC_Aging_Testbench/device/driverlib/emif.c</location>
+		</link>
+		<link>
+			<name>epwm.c</name>
+			<type>1</type>
+			<location>C:/Users/Noah/sciebo - Dünninghaus, Noah Bennet (0T92MR@rwth-aachen.de)@rwth-aachen.sciebo.de2/01_RWTH-Aachen_Privat/01_Bachelorarbeit_Noah_Duenninghaus/08_Mikrocontroller_Steuerungseinheit/workspace/Controller_SiC_Aging_Testbench/device/driverlib/epwm.c</location>
+		</link>
+		<link>
+			<name>eqep.c</name>
+			<type>1</type>
+			<location>C:/Users/Noah/sciebo - Dünninghaus, Noah Bennet (0T92MR@rwth-aachen.de)@rwth-aachen.sciebo.de2/01_RWTH-Aachen_Privat/01_Bachelorarbeit_Noah_Duenninghaus/08_Mikrocontroller_Steuerungseinheit/workspace/Controller_SiC_Aging_Testbench/device/driverlib/eqep.c</location>
+		</link>
+		<link>
+			<name>flash.c</name>
+			<type>1</type>
+			<location>C:/Users/Noah/sciebo - Dünninghaus, Noah Bennet (0T92MR@rwth-aachen.de)@rwth-aachen.sciebo.de2/01_RWTH-Aachen_Privat/01_Bachelorarbeit_Noah_Duenninghaus/08_Mikrocontroller_Steuerungseinheit/workspace/Controller_SiC_Aging_Testbench/device/driverlib/flash.c</location>
+		</link>
+		<link>
+			<name>gpio.c</name>
+			<type>1</type>
+			<location>C:/Users/Noah/sciebo - Dünninghaus, Noah Bennet (0T92MR@rwth-aachen.de)@rwth-aachen.sciebo.de2/01_RWTH-Aachen_Privat/01_Bachelorarbeit_Noah_Duenninghaus/08_Mikrocontroller_Steuerungseinheit/workspace/Controller_SiC_Aging_Testbench/device/driverlib/gpio.c</location>
+		</link>
+		<link>
+			<name>hrpwm.c</name>
+			<type>1</type>
+			<location>C:/Users/Noah/sciebo - Dünninghaus, Noah Bennet (0T92MR@rwth-aachen.de)@rwth-aachen.sciebo.de2/01_RWTH-Aachen_Privat/01_Bachelorarbeit_Noah_Duenninghaus/08_Mikrocontroller_Steuerungseinheit/workspace/Controller_SiC_Aging_Testbench/device/driverlib/hrpwm.c</location>
+		</link>
+		<link>
+			<name>i2c.c</name>
+			<type>1</type>
+			<location>C:/Users/Noah/sciebo - Dünninghaus, Noah Bennet (0T92MR@rwth-aachen.de)@rwth-aachen.sciebo.de2/01_RWTH-Aachen_Privat/01_Bachelorarbeit_Noah_Duenninghaus/08_Mikrocontroller_Steuerungseinheit/workspace/Controller_SiC_Aging_Testbench/device/driverlib/i2c.c</location>
+		</link>
+		<link>
+			<name>interrupt.c</name>
+			<type>1</type>
+			<location>C:/Users/Noah/sciebo - Dünninghaus, Noah Bennet (0T92MR@rwth-aachen.de)@rwth-aachen.sciebo.de2/01_RWTH-Aachen_Privat/01_Bachelorarbeit_Noah_Duenninghaus/08_Mikrocontroller_Steuerungseinheit/workspace/Controller_SiC_Aging_Testbench/device/driverlib/interrupt.c</location>
+		</link>
+		<link>
+			<name>ipc.c</name>
+			<type>1</type>
+			<location>C:/Users/Noah/sciebo - Dünninghaus, Noah Bennet (0T92MR@rwth-aachen.de)@rwth-aachen.sciebo.de2/01_RWTH-Aachen_Privat/01_Bachelorarbeit_Noah_Duenninghaus/08_Mikrocontroller_Steuerungseinheit/workspace/Controller_SiC_Aging_Testbench/device/driverlib/ipc.c</location>
+		</link>
+		<link>
+			<name>mcbsp.c</name>
+			<type>1</type>
+			<location>C:/Users/Noah/sciebo - Dünninghaus, Noah Bennet (0T92MR@rwth-aachen.de)@rwth-aachen.sciebo.de2/01_RWTH-Aachen_Privat/01_Bachelorarbeit_Noah_Duenninghaus/08_Mikrocontroller_Steuerungseinheit/workspace/Controller_SiC_Aging_Testbench/device/driverlib/mcbsp.c</location>
+		</link>
+		<link>
+			<name>memcfg.c</name>
+			<type>1</type>
+			<location>C:/Users/Noah/sciebo - Dünninghaus, Noah Bennet (0T92MR@rwth-aachen.de)@rwth-aachen.sciebo.de2/01_RWTH-Aachen_Privat/01_Bachelorarbeit_Noah_Duenninghaus/08_Mikrocontroller_Steuerungseinheit/workspace/Controller_SiC_Aging_Testbench/device/driverlib/memcfg.c</location>
+		</link>
+		<link>
+			<name>sci.c</name>
+			<type>1</type>
+			<location>C:/Users/Noah/sciebo - Dünninghaus, Noah Bennet (0T92MR@rwth-aachen.de)@rwth-aachen.sciebo.de2/01_RWTH-Aachen_Privat/01_Bachelorarbeit_Noah_Duenninghaus/08_Mikrocontroller_Steuerungseinheit/workspace/Controller_SiC_Aging_Testbench/device/driverlib/sci.c</location>
+		</link>
+		<link>
+			<name>sdfm.c</name>
+			<type>1</type>
+			<location>C:/Users/Noah/sciebo - Dünninghaus, Noah Bennet (0T92MR@rwth-aachen.de)@rwth-aachen.sciebo.de2/01_RWTH-Aachen_Privat/01_Bachelorarbeit_Noah_Duenninghaus/08_Mikrocontroller_Steuerungseinheit/workspace/Controller_SiC_Aging_Testbench/device/driverlib/sdfm.c</location>
+		</link>
+		<link>
+			<name>spi.c</name>
+			<type>1</type>
+			<location>C:/Users/Noah/sciebo - Dünninghaus, Noah Bennet (0T92MR@rwth-aachen.de)@rwth-aachen.sciebo.de2/01_RWTH-Aachen_Privat/01_Bachelorarbeit_Noah_Duenninghaus/08_Mikrocontroller_Steuerungseinheit/workspace/Controller_SiC_Aging_Testbench/device/driverlib/spi.c</location>
+		</link>
+		<link>
+			<name>sysctl.c</name>
+			<type>1</type>
+			<location>C:/Users/Noah/sciebo - Dünninghaus, Noah Bennet (0T92MR@rwth-aachen.de)@rwth-aachen.sciebo.de2/01_RWTH-Aachen_Privat/01_Bachelorarbeit_Noah_Duenninghaus/08_Mikrocontroller_Steuerungseinheit/workspace/Controller_SiC_Aging_Testbench/device/driverlib/sysctl.c</location>
+		</link>
+		<link>
+			<name>upp.c</name>
+			<type>1</type>
+			<location>C:/Users/Noah/sciebo - Dünninghaus, Noah Bennet (0T92MR@rwth-aachen.de)@rwth-aachen.sciebo.de2/01_RWTH-Aachen_Privat/01_Bachelorarbeit_Noah_Duenninghaus/08_Mikrocontroller_Steuerungseinheit/workspace/Controller_SiC_Aging_Testbench/device/driverlib/upp.c</location>
+		</link>
+		<link>
+			<name>usb.c</name>
+			<type>1</type>
+			<location>C:/Users/Noah/sciebo - Dünninghaus, Noah Bennet (0T92MR@rwth-aachen.de)@rwth-aachen.sciebo.de2/01_RWTH-Aachen_Privat/01_Bachelorarbeit_Noah_Duenninghaus/08_Mikrocontroller_Steuerungseinheit/workspace/Controller_SiC_Aging_Testbench/device/driverlib/usb.c</location>
+		</link>
+		<link>
+			<name>version.c</name>
+			<type>1</type>
+			<location>C:/Users/Noah/sciebo - Dünninghaus, Noah Bennet (0T92MR@rwth-aachen.de)@rwth-aachen.sciebo.de2/01_RWTH-Aachen_Privat/01_Bachelorarbeit_Noah_Duenninghaus/08_Mikrocontroller_Steuerungseinheit/workspace/Controller_SiC_Aging_Testbench/device/driverlib/version.c</location>
+		</link>
+		<link>
+			<name>xbar.c</name>
+			<type>1</type>
+			<location>C:/Users/Noah/sciebo - Dünninghaus, Noah Bennet (0T92MR@rwth-aachen.de)@rwth-aachen.sciebo.de2/01_RWTH-Aachen_Privat/01_Bachelorarbeit_Noah_Duenninghaus/08_Mikrocontroller_Steuerungseinheit/workspace/Controller_SiC_Aging_Testbench/device/driverlib/xbar.c</location>
+		</link>
+	</linkedResources>
+</projectDescription>
